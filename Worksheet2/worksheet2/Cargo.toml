@@ -1,0 +1,9 @@
+[package]
+name = "worksheet2"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bookshelf = { path = "/Users/fahad/OneDrive/Documents/Rust_Worksheets/Worksheet2/worksheet2/bookshelf" }
